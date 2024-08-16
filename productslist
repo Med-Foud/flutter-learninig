@@ -1,37 +1,44 @@
 [
-  Product(
-      "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/51/781224/1.jpg?1189",
-      "SH 3200 DPI",
-      "SH 3200 DPI réglables et 7D LED Optique Souris de jeu filaire USB pour Gamer PC",
-      "69.00"),
-  Product(
-      "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/11/154924/1.jpg?1290",
-      "SH MK-X60 Clavier",
-      "Clavier Gamer mécanique BLUE SWITCH 87 touches, rétro-éclairage RGB",
-      "339.00"),
-  Product(
-      "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/09/620504/1.jpg?2669",
-      "G2000 Casque Gaming",
-      "Casque gaming Kotion Each G2000",
-      "149.00"),
-  Product(
-      "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/75/463056/1.jpg?4274",
-      "Lenovo XT88 TWS",
-      "Lenovo XT88 TWS Wireless Earphone Bluetooth v5.3 Double réduction du bruit stéréo Contrôle tactile",
-      "129.00"),
-  Product(
-      "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/21/212693/1.jpg?3998",
-      "Samsung Buds",
-      "Samsung Galaxy Buds pro Black",
-      "1,099.00"),
-  Product(
-      "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/99/175664/1.jpg?0172",
-      "Haylou Smart watch",
-      "Haylou Smart watch LS02 montre intelligente, Bluetooth 5.0 Globale version",
-      "338.99"),
-  Product(
-      "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/47/116094/1.jpg?4752",
-      "Mi Smart Band 6",
-      "Mi Smart Band 6 est le successeur des Mi Band de Xiaomi annoncé en 2021",
-      "549.00"),
+  {
+    "imgUrl": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/51/781224/1.jpg?1189",
+    "title": "SH 3200 DPI",
+    "subTitle": "SH 3200 DPI réglables et 7D LED Optique Souris de jeu filaire USB pour Gamer PC",
+    "price": "69.00"
+  },
+  {
+    "imgUrl": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/11/154924/1.jpg?1290",
+    "title": "SH MK-X60 Clavier",
+    "subTitle": "Clavier Gamer mécanique BLUE SWITCH 87 touches, rétro-éclairage RGB",
+    "price": "339.00"
+  },
+  {
+    "imgUrl": "https://ma.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/09/620504/1.jpg?2669",
+    "title": "G2000 Casque Gaming",
+    "subTitle": "Casque gaming Kotion Each G2000",
+    "price": "149.00"
+  },
+  {
+    "imgUrl": "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/75/463056/1.jpg?4274",
+    "title": "Lenovo XT88 TWS",
+    "subTitle": "Lenovo XT88 TWS Wireless Earphone Bluetooth v5.3 Double réduction du bruit stéréo Contrôle tactile",
+    "price": "129.00"
+  },
+  {
+    "imgUrl": "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/21/212693/1.jpg?3998",
+    "title": "Samsung Buds",
+    "subTitle": "Samsung Galaxy Buds pro Black",
+    "price": "1,099.00"
+  },
+  {
+    "imgUrl": "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/99/175664/1.jpg?0172",
+    "title": "Haylou Smart watch",
+    "subTitle": "Haylou Smart watch LS02 montre intelligente, Bluetooth 5.0 Globale version",
+    "price": "338.99"
+  },
+  {
+    "imgUrl": "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/47/116094/1.jpg?4752",
+    "title": "Mi Smart Band 6",
+    "subTitle": "Mi Smart Band 6 est le successeur des Mi Band de Xiaomi annoncé en 2021",
+    "price": "549.00"
+  }
 ]
